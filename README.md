@@ -4,9 +4,11 @@ A tool to backtest single factors using SimFin data. Backtest built-in factors a
 
 ## Development roadmap
 - [x] Price-only tester  
-- [ ] Cashflow-only tester  
-- [ ] Balance-only tester  
-- [ ] Multiple-dataset tester
+- [x] Cashflow-only tester  
+- [x] Balance-only tester  
+- [x] Multi-dataset tester  
+
+Although not all multi-dataset testers are included, they can be easily constructed modelling on other multi-dataset testers.
 
 ## Tutorial
 *TBA*
